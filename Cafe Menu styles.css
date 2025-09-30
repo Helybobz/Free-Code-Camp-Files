@@ -1,8 +1,11 @@
 /* A SELECTORS */
-
+a {color: black; font-weight: bold;}
+a:visited {color: black;}
+a:hover {color: brown;}
+a:active {color: brown;}
 /* B SELECTORS */
 body { 
-    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg); font-family: centurygothic;
+    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg); font-family: centurygothic; padding: 20px;
 }
 
 /* C SELECTORS */
@@ -14,7 +17,9 @@ body {
 
 /* F SELECTORS */
 .flavor, .dessert {text-align: left; width: 75%;} 
-footer {background-color: rgb(250, 250, 250); padding: 4px;}
+footer {background-color: rgba(238, 192, 192, 0.726); padding: 4px; font-size: 14px;}
+.footerline {height: 2px; background-color: black; border-color: black;
+    }
 /* G SELECTORS */
 
 /* H SELECTORS */
@@ -23,13 +28,13 @@ h1, h2, p {
         }
 h1, h2 { font-family: broadway, centurygothic; color: #4d2a05;
 }
-h1 {font-size: 40px;}
+h1 {font-size: 40px; margin-top:0; margin-bottom: 15px;}
 h2 {font-size: 30px;}
-hr {height: 2px; background-color: brown; border-color: brown;}
+
 
 /* I SELECTORS */
-.item p {display: inline-block;}
-
+.item p {display: inline-block; margin-top: 5px; margin-bottom: 5px; font-size: 18px;}
+.icon {display: block; margin-left: auto; margin-right: auto; margin-top: -25px;}
 /* J SELECTORS */
 
 /* K SELECTORS */
@@ -38,10 +43,13 @@ hr {height: 2px; background-color: brown; border-color: brown;}
 
 /* M SELECTORS */
     /* The following is a div box you called "menu" and you are customizing it by using properties in side the {} brackets */
-.menubox {
+    .menuborderlines {height: 2px; background-color: brown; border-color: brown; margin-bottom: 50px;
+    }
+
+    .menubox {
     width:80%; background-color:burlywood; 
-    margin-left: auto; margin-right: auto; padding:20px; max-width: 500px;
-}
+    margin-left: auto; margin-right: auto; padding: 20px; max-width: 650px;
+    }
 /* N SELECTORS */
 
 /* O SELECTORS */
@@ -64,7 +72,7 @@ hr {height: 2px; background-color: brown; border-color: brown;}
 /* V SELECTORS */
 
 /* W SELECTORS */
-
+.webaddress {margin-bottom: 5px;}
 /* X SELECTORS */
 
 /* Y SELECTORS */
