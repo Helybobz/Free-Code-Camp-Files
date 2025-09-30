@@ -14,7 +14,7 @@ body {
 
 /* F SELECTORS */
 .flavor, .dessert {text-align: left; width: 75%;} 
-
+footer {background-color: rgb(250, 250, 250); padding: 4px;}
 /* G SELECTORS */
 
 /* H SELECTORS */
