@@ -1,0 +1,80 @@
+/* A SELECTORS */
+a {color: black; font-weight: bold;}
+a:visited {color: black;}
+a:hover {color: brown;}
+a:active {color: brown;}
+/* B SELECTORS */
+body { 
+    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg); font-family: centurygothic; padding: 20px;
+}
+
+/* C SELECTORS */
+
+/* D SELECTORS */
+
+/* E SELECTORS */
+.established {font-style: italic;}
+
+/* F SELECTORS */
+.flavor, .dessert {text-align: left; width: 75%;} 
+footer {background-color: rgba(238, 192, 192, 0.726); padding: 4px; font-size: 14px;}
+.footerline {height: 2px; background-color: black; border-color: black;
+    }
+/* G SELECTORS */
+
+/* H SELECTORS */
+h1, h2, p {
+            text-align: center;
+        }
+h1, h2 { font-family: broadway, centurygothic; color: #4d2a05;
+}
+h1 {font-size: 40px; margin-top:0; margin-bottom: 15px;}
+h2 {font-size: 30px;}
+
+
+/* I SELECTORS */
+.item p {display: inline-block; margin-top: 5px; margin-bottom: 5px; font-size: 18px;}
+.icon {display: block; margin-left: auto; margin-right: auto; margin-top: -25px;}
+/* J SELECTORS */
+
+/* K SELECTORS */
+
+/* L SELECTORS */
+
+/* M SELECTORS */
+    /* The following is a div box you called "menu" and you are customizing it by using properties in side the {} brackets */
+    .menuborderlines {height: 2px; background-color: brown; border-color: brown; margin-bottom: 50px;
+    }
+
+    .menubox {
+    width:80%; background-color:burlywood; 
+    margin-left: auto; margin-right: auto; padding: 20px; max-width: 650px;
+    }
+/* N SELECTORS */
+
+/* O SELECTORS */
+
+/* P SELECTORS */
+.price {text-align: right; width: 25%;
+}
+
+/* Q SELECTORS */
+
+/* R SELECTORS */
+
+/* S SELECTORS */
+.spacer {height: 50% 
+    }
+/* T SELECTORS */
+
+/* U SELECTORS */
+
+/* V SELECTORS */
+
+/* W SELECTORS */
+.webaddress {margin-bottom: 5px;}
+/* X SELECTORS */
+
+/* Y SELECTORS */
+
+/* Z SELECTORS */
