@@ -2,14 +2,13 @@
 /*B SELECTORS*/
 
 /*C SELECTORS*/
-.canvas {width: 500px; height: 600px; background-color: #4d0f00;
-padding: 1px; Overflow: hidden;}
+.canvas {width: 500px; height: 600px; background-color: #4d0f00; overflow: hidden;}
 /*D SELECTORS*/
 
 /*E SELECTORS*/
 
 /*F SELECTORS*/
-.frame {border: 50px solid black;width: 500px; padding: 50px; margin: 20px auto;
+.frame {border: 50px solid black; width: 500px; padding: 50px; margin: 20px auto;
 }
 
 /*G SELECTORS*/
@@ -30,6 +29,7 @@ padding: 1px; Overflow: hidden;}
 
 /*O SELECTORS*/
 .one {width: 425px; height: 150px; background-color: #efb762; margin: 20px auto;}
+
 /*P SELECTORS*/
 
 /*Q SELECTORS*/
@@ -40,7 +40,7 @@ padding: 1px; Overflow: hidden;}
 
 /*T SELECTORS*/
 .two {width: 475px; height: 200px; background-color: #8f0401; margin: 20px auto;}
-
+.three {width: 91%; height: 28%; background-color: #b20403; margin: 20px auto;}
 /*U SELECTORS*/
 
 /*V SELECTORS*/
